@@ -2,6 +2,8 @@
 
 NDPSTSHR-BST adalah sebuah aplikasi web untuk berbagi paste dengan Node.js.
 
+Untuk mendownloadnya, kunjungi bagian Releases.
+
 Untuk menjalankannya, ekstrak file zipnya, kemudian jalankan:
 
 ```
