@@ -25,6 +25,10 @@ username: admin@example.com
 password: admin
 ```
 
+## Screencast
+
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWShShlxa0MegGbYdkVpMmXP
+
 ## Info Tambahan
 
 Traktir Saya:
