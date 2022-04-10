@@ -29,6 +29,10 @@ password: admin
 
 - https://www.youtube.com/playlist?list=PLOg7o5N1MDWShShlxa0MegGbYdkVpMmXP
 
+## Screenshot
+
+![ScreenShot](assets/NDPSTSHR1.png?raw=true)
+
 ## Info Tambahan
 
 Traktir Saya:
