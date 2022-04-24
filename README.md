@@ -1,24 +1,28 @@
 # NDPSTSHR-BST
- 
-NDPSTSHR-BST adalah sebuah aplikasi web untuk berbagi paste dengan Node.js.
 
-Untuk mendownloadnya, kunjungi bagian Releases.
+## Download
 
-Untuk menjalankannya, ekstrak file zipnya, kemudian jalankan:
+Download the project on release page.
+
+## Intro
+
+NDPSTSHR-BST is a Node.js paste sharing web app.
+
+Extract the zip source, cd to the folder, then, in command line:
 
 ```
 npm install
 ```
 
-Rename .env-example menjadi .env, kemudian isi dengan detail yang benar.
+Rename .env-example to .env,  fill the data correctly (refer to the .env-example).
 
-Kemudian, jalankan:
+Then:
 
 ```
 npm run dev
 ```
 
-Admin bawaan memiliki detail login:
+Default admin login:
 
 ```
 username: admin@example.com
