@@ -4,6 +4,12 @@
 
 Download the project on release page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Intro
 
 NDPSTSHR-BST is a Node.js paste sharing web app.
@@ -36,9 +42,3 @@ password: admin
 ## Screenshot
 
 ![ScreenShot](assets/NDPSTSHR1.png?raw=true)
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
