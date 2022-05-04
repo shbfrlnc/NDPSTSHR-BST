@@ -2,27 +2,27 @@
 
 ## Download
 
-Download the project on release page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-NDPSTSHR-BST is a Node.js paste sharing web app.
+NDPSTSHR-BST adalah Node.js paste sharing web app.
 
-Extract the zip source, cd to the folder, then, in command line:
+Ekstrak file zip nya, masuk ke dalam foldernya via command line, kemudian jalankan:
 
 ```
 npm install
 ```
 
-Rename .env-example to .env,  fill the data correctly (refer to the .env-example).
+Rename .env-example to .env,  isi datanya dengan benar sesuai contoh pada .env-example.
 
-Then:
+Kemudian:
 
 ```
 npm run dev
