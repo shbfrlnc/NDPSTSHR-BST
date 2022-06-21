@@ -35,10 +35,6 @@ username: admin@example.com
 password: admin
 ```
 
-## Screencast
-
-- https://www.youtube.com/playlist?list=PLOg7o5N1MDWShShlxa0MegGbYdkVpMmXP
-
 ## Screenshot
 
 ![ScreenShot](assets/NDPSTSHR1.png?raw=true)
